@@ -24,7 +24,7 @@ To view the project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/github-landing-page-clone.git
+    git clone https://github.com/ajitkumarroy/github-landing-page-clone.git
     ```
 
 2. Navigate to the project directory:
@@ -42,7 +42,7 @@ To view the project locally:
 
 ## 🎨 Demo
 
-Check out a live demo of the project [here](https://yourusername.github.io/github-landing-page-clone).
+Check out a live demo of the project [here](https://ajitkumarroy.github.io/vs-code-landing-page/).
 
 ## 🤝 Contributing
 
