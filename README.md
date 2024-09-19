@@ -46,7 +46,7 @@ Check out a live demo of the project [here](https://ajitkumarroy.github.io/vs-co
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/github-landing-page-clone/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/AjitKumarRoy/github-landing-page-clone/issues) if you want to contribute.
 
 ## 📄 License
 
